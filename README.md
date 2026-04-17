@@ -17,3 +17,4 @@ mvn compile
 cd target\classes
 java juego_java.Main
 ```
+_Hecho el 03/01/2026_
